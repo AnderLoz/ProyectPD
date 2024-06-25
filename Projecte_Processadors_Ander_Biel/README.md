@@ -1,6 +1,6 @@
 # Projecte PD: Pedal de guitarra
 ## **Introducció**
-
+![Muntatge](muntatge.jpg)
 * ESP32-S3
 * DAC MAX98357A
 * ADC PCM1808
